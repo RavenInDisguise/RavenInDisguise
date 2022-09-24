@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mónica alfaro parrales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mónica alfaro parrales" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m%C3%B3nica-alfaro-parrales/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mónica alfaro parrales" height="30" width="40" /></a>
 <a href="https://discord.gg/RavenInDisguise#0399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RavenInDisguise#0399" height="30" width="40" /></a>
 </p>
 
