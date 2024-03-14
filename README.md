@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **monialfaro15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-tJxBZAirl-v-Pc7Hf1Xs8kHmM6KZVDo?usp=sharing](https://drive.google.com/drive/folders/1-tJxBZAirl-v-Pc7Hf1Xs8kHmM6KZVDo?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-tJxBZAirl-v-Pc7Hf1Xs8kHmM6KZVDo?usp=sharing](https://drive.google.com/file/d/1ftSsRn3bzDJXhp2Hvtaark-vcJJ9iNJU/view?usp=drive_link)
 
 - ⚡ Fun fact **I started studying Computer Engineering because I felt inspired by my sister!**
 
